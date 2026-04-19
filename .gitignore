@@ -2,6 +2,13 @@
 sisters/
 !sisters/example_xiaoming/
 
+# 个人工作数据
+.workbuddy/
+
+# 网页配置（含密钥）
+chat/config.py
+chat/logs/
+
 # 临时文件
 /tmp/
 *.pyc
