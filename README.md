@@ -407,7 +407,7 @@ sister-skill/
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![](image-3.png)    
-写这个项目的原因，妹子要早点睡觉
+写这个项目的原因，妹子要早点睡觉，不能一直聊天
 MIT License © [Wasdar456](https://www.google.com/search?q=https://github.com/Wasdar456)
 
 ```
