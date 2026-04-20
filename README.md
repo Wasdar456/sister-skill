@@ -82,7 +82,7 @@ pip3 install -r requirements.txt
 
 ## 📱 使用 Weflow 导出微信聊天记录
 
-本项目推荐使用 **Weflow**（VS Code 插件）导出微信聊天记录，步骤简单，数据结构清晰。
+本项目推荐使用 **Weflow**导出微信聊天记录，步骤简单，数据结构清晰。
 
 ### Step 1：安装 Weflow
 
@@ -391,7 +391,7 @@ sister-skill/
 
 | 项目 | 作者 | 说明 |
 |------|------|------|
-| [ex-skill](https://github.com/therealXiaomanChu/ex-skill) | @therealXiaomanChu | 本项目的底层架构与灵感来源（前任蒸馏器） |
+| [ex-skill](https://github.com/therealXiaomanChu/ex-skill) | @therealXiaomanChu | 本项目的灵感来源（前任蒸馏器） |
 | [同事.skill](https://github.com/titanwings/colleague-skill) | @titanwings | 职场必备，把同事蒸馏成 AI Skill |
 
 -----
